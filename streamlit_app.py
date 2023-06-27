@@ -39,7 +39,7 @@ try:
 except URLError as e:
     streamlit.error()
 
-streamlit.text(fruityvice_response.json())
+#streamlit.text(fruityvice_response.json())
 
 
 streamlit.stop()
