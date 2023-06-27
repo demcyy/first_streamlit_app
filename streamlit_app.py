@@ -42,7 +42,7 @@ except URLError as e:
 #streamlit.text(fruityvice_response.json())
 
 
-streamlit.stop()
+#streamlit.stop()
 
 #import snowflake.connector
 
